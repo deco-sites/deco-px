@@ -10,7 +10,7 @@ export interface Props {
 export default function SectionBridge({
   title = "New Release Fashion",
   subTitle =
-    "Our Latest Fashion that can add to your dress style for especial day. Discount applies to all products without any expection!",
+    "A simple deco description task",
   button,
 }: Props) {
   return (
