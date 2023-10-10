@@ -8,9 +8,8 @@ export interface Props {
 }
 
 export default function SectionBridge({
-  title = "New Release Fashion",
-  subTitle =
-    "Our Latest Fashion that can add to your dress style for especial day. Discount applies to all products without any expection!",
+  title = "New Deco-Px Fashion",
+  subTitle = "Our Latest Fashion that can add to your dress style for especial day. Discount applies to all products without any expection!",
   button,
 }: Props) {
   return (
@@ -25,12 +24,11 @@ export default function SectionBridge({
               {subTitle}
             </span>
           </div>
-          {button &&
-            (
-              <button class="btn text-black bg-white hover:bg-black/70 hover:text-white hover:border-white">
-                <a href={button.link}>{button.titleButton}</a>
-              </button>
-            )}
+          {button && (
+            <button class="btn text-black bg-white hover:bg-black/70 hover:text-white hover:border-white">
+              <a href={button.link}>{button.titleButton}</a>
+            </button>
+          )}
         </div>
       </div>
     </section>

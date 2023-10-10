@@ -71,3 +71,7 @@ deno.lock
 
 # db files
 .config.json
+
+# Vscode
+.vscode/
+.history/

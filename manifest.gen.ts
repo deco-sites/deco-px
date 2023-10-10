@@ -64,13 +64,10 @@ const manifest = {
     "deco-sites/deco-px/sections/Images/ShoppableBanner.tsx": $$$$$$18,
     "deco-sites/deco-px/sections/Links/LinkTree.tsx": $$$$$$19,
     "deco-sites/deco-px/sections/Links/Shortcuts.tsx": $$$$$$20,
-    "deco-sites/deco-px/sections/Miscellaneous/CampaignTimer.tsx":
-      $$$$$$21,
-    "deco-sites/deco-px/sections/Miscellaneous/CookieConsent.tsx":
-      $$$$$$22,
+    "deco-sites/deco-px/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$21,
+    "deco-sites/deco-px/sections/Miscellaneous/CookieConsent.tsx": $$$$$$22,
     "deco-sites/deco-px/sections/Newsletter/Newsletter.tsx": $$$$$$23,
-    "deco-sites/deco-px/sections/Newsletter/NewsletterModal.tsx":
-      $$$$$$24,
+    "deco-sites/deco-px/sections/Newsletter/NewsletterModal.tsx": $$$$$$24,
     "deco-sites/deco-px/sections/Product/ProductDetails.tsx": $$$$$$25,
     "deco-sites/deco-px/sections/Product/ProductShelf.tsx": $$$$$$26,
     "deco-sites/deco-px/sections/Product/SearchResult.tsx": $$$$$$27,
